@@ -1,0 +1,14 @@
+Logotipo da Udemy
+Criação de Apps Android e iOS com Fl…
+Deixe uma classificação
+Seu progresso
+[ATENÇÃO] - Versões dos Plugins para o App #4
+No desenvolvimento de software, as ferramentas e versões mudam muito rápido! Mais rápido do que é possível regravar um curso! Portando, sempre no começo de uma seção de App, colocarei uma aula como esta sugerindo algumas versões de plugins para você utilizar! Copie estas versões em algum local e utilize-as nas aulas seguintes! Estou sempre testando as novas versões e certificando de que elas funcionam perfeitamente, para que você não tenha dores de cabeça durante o curso.
+
+As versões recomendadas para este app são:
+
+path_provider: ^1.1.0
+
+Guarde-as que logo você irá utilizá-las!
+
+Mas atenção: caso não utilize as versões sugeridas acima, há o risco do seu app não funcionar, e nesse caso não conseguiremos te ajudar. Por isso, utilize as versões sugeridas.
