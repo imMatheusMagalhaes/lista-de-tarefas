@@ -1,4 +1,4 @@
-#Sun Jan 26 18:41:27 BRST 2020
+#Fri Feb 21 13:17:16 BRT 2020
 base.0=/home/magga/projetos flutter/lista-de-tarefas/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
